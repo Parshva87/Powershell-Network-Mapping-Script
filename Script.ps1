@@ -1,8 +1,3 @@
-﻿
-    
-
-
-
 
 function main{
 
@@ -71,13 +66,7 @@ Write-Output $testip
 }
 
 
-
-
-
-
-
 function gate_way{
-
 
    
 #return $testip
@@ -259,16 +248,7 @@ Remove-Item $filefs
 Else{"0 New Open Ports Founds"}
 
 
-
-
-
 }
-
-
-
-
-
-
 
 
 function bpopup{
